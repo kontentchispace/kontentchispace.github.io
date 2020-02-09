@@ -35,9 +35,9 @@ compress_html:
 dark_theme: false
 
 # Site meta
-title: Summer
-tagline: 'Delicious & healthy recipes'
-description: 'A simple Jekyll theme with a photo sidebar.'
+title: Контентчи Space
+tagline: 'Эне тилде үн кат'
+description: 'Подкастчы авторлорду бириктирген платформа.'
 keywords: 'connor, bär, designer, traveller, code, jekyll, developer, theme'
 url: https://kontentchispace.github.io
 baseurl: 
