@@ -39,25 +39,25 @@ title: Summer
 tagline: 'Delicious & healthy recipes'
 description: 'A simple Jekyll theme with a photo sidebar.'
 keywords: 'connor, bär, designer, traveller, code, jekyll, developer, theme'
-url: https://connor-baer.github.io
-baseurl: /summer
+url: https://kontentchispace.github.io
+baseurl: /kontentchispace
 assets: /assets
 images: /images/
 image: index-large.jpg
 logo: /assets/icons/apple-icon-144x144.png
 
 author:
-  name: Connor Bär
-  bio: Hi, I'm Connor, the author of this blog. Nice to meet you!
+  name: Kontnetchi Space
+  bio: Кандай! Бул Контентчи Space, подкастчы авторлорду бириктирген платформа. Баштан!
   image: author
-  url: https://connorbaer.co
-  email: hello@connorbaer.co
-  twitter: connor_baer
+  url: https://kontentchi.com
+  email: kontentchiplatform@gmail.com
+  twitter: kontentchi
 
 social:
-  twitter: https://twitter.com/connor_baer
-  instagram: https://instagram.com/connor_baer
-  github: https://github.com/connor-baer/summer
+  twitter: https://twitter.com/kontentchi
+  instagram: https://instagram.com/kontentchi
+  github: https://github.com/kontentchispace
 
 version: 2.0.0
 
