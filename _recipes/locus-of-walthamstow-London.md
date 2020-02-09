@@ -1,6 +1,6 @@
 ---
-title: 'Cauliflower steaks with roasted red pepper & olive salsa'
-ref: cauliflower-steaks
+title: 'Locus Of Walthamstow креативдүү мейкиндиги'
+ref: locus-of-walthamstow-London
 image: true
 time: 30
 category: lunch
