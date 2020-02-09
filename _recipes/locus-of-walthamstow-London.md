@@ -3,7 +3,7 @@ title: 'Locus Of Walthamstow креативдүү мейкиндиги'
 ref: locus-of-walthamstow-London
 image: true
 time: 30
-category: lunch
+category: London
 tags: [vegan, vegetarian, quick]
 ingredients:
   - name: cauliflower
