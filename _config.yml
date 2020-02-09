@@ -40,7 +40,7 @@ tagline: 'Эне тилде үн кат'
 description: 'Подкастчы авторлорду бириктирген платформа.'
 keywords: 'connor, bär, designer, traveller, code, jekyll, developer, theme'
 url: https://kontentchispace.github.io
-baseurl: 
+baseurl: https://kontentchispace.github.io/
 assets: /assets
 images: /images/
 image: index-large.jpg
