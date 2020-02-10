@@ -6,8 +6,8 @@ time: 30
 category: London
 tags: [podcast, coworking, london]
 ingredients:
-  - name: cauliflower
-    amount: 1
+  - name: chairs
+    amount: 2 x 
     unit:
   - name: smoked paprika
     amount: ½
