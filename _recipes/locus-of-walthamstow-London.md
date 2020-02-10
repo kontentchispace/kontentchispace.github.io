@@ -35,11 +35,62 @@ ingredients:
     unit: tbsp
 ---
 
-Unlock the flavours of cauliflower with a red pepper, olive and caper salsa, topped with almonds. Healthy and vegan, it makes a tasty light lunch or supper.
+Podcast room equipment and rates
 
-1. Heat oven to 220C/200C fan/gas 7 and line a baking tray with baking parchment. Slice the cauliflower into two 1-inch steaks – use the middle part as it’s larger, and save the rest for another time. Rub the paprika and 1⁄2 tbsp oil over the steaks and season. Put on the tray and roast for 15-20 mins until cooked through.
-2. Meanwhile, make the salsa. Chop the pepper, olives, parsley and capers, and put into a bowl and mix with the remaining oil and vinegar. Season to taste. When the steaks are cooked, spoon over the salsa and top with flaked almonds to serve.
+2 x chairs
+1 x lamp
+1 x comfy chair
+
+2 x boom scissor arm
+Headphone splitter
+2 x Swivel pop screen
+2 x Audio Technica ATR2100-USB Cardioid Dynamic USB/XLR Microphone
+2 x Behringer Hpx2000 - High-Definition Headphones
+1 x Mac Book Pro
+1 x H4nPro Zoom Mic with memory card
+1 x Canon 60D Camera with memory card
+1 x Canon 600D Camera with memory card
+
+Please bring an external hard drive or your own memory cards to take work home. Anything left on the memory cards will be deleted. Anything left on the mac will be deleted. 
+
+
+Introductory Prices from:
+Per hour £8 8am – 6pm
+Per hour £15 6pm – 9pm
+Per hour £20 9pm – 11pm
+
+Prices include mics, zoom mic, headphones. Additional prices will incur for cameras and for use of the Mac Book. 
+
+Notes for consideration
+Please note, the room is not soundproofed. We have a soundproofed door and thus the room is sound dampened. Some external sound may be heard if the room is being used during the day or when workshops are on. It is advised to use the space during quiet times. The microphones we have pick up sound if at a close range and thus outside noise should not be picked up. 
+
+Booking form
+
+
+Date:……………………..
+Times…………………….
+Name………………….....
+Email…………………….
+Phone Number……………………………
+
+
+
+Equipment requirements:
+Please delete where not necessary
+
+
+2 x boom scissor arm
+Headphone splitter
+2 x Swivel pop screen
+2 x Audio Technica ATR2100-USB Cardioid Dynamic USB/XLR Microphone
+2 x Behringer Hpx2000 - High-Definition Headphones
+1 x H4nPro Zoom Mic with memory card
+
+1 x Mac Book Pro  +£5 per hour
+1 x Canon 60D Camera with memory card + £5 per hour
+1 x Canon 600D Camera with memory card + £5 per hour
+
 
 ---
 
-_From [BBC Good Food](https://www.bbcgoodfood.com/recipes/cauliflower-steaks-roasted-red-pepper-olive-salsa)._
+_From [Podcast/ Recording space](https://www.lowalthamstow.com/podcast-recording-room)._
