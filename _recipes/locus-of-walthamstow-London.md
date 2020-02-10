@@ -37,8 +37,8 @@ ingredients:
 
 Podcast room equipment and rates
 
-2 x chairs
-1 x lamp
+2 x chairs<br>
+1 x lamp<br>
 1 x comfy chair
 
 2 x boom scissor arm
