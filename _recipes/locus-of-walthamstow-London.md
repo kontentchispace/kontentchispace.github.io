@@ -1,10 +1,10 @@
 ---
-title: 'Locus Of Walthamstow креативдүү мейкиндиги'
+title: 'Locus Of Walthamstow Podcast/ Recording space'
 ref: locus-of-walthamstow-London
 image: true
 time: 30
 category: London
-tags: [vegan, vegetarian, quick]
+tags: [podcast, coworking, london]
 ingredients:
   - name: cauliflower
     amount: 1
