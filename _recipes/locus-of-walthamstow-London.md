@@ -1,6 +1,6 @@
 ---
 title: 'Locus Of Walthamstow Podcast/ Recording space'
-ref: locus-of-walthamstow-London
+ref: locus-of-walthamstow-london
 image: true
 time: 30
 category: London
