@@ -5,34 +5,7 @@ image: true
 time: 30
 category: London
 tags: [podcast, coworking, london]
-ingredients:
-  - name: chairs
-    amount: 2 x 
-    unit:
-  - name: smoked paprika
-    amount: ½
-    unit: tsp
-  - name: olive oil
-    amount: 2
-    unit: tbsp
-  - name: roasted red pepper
-    amount: 1
-    unit:
-  - name: black olives, pitted
-    amount: 4
-    unit:
-  - name: parsley
-    amount: small
-    unit: handful
-  - name: capers
-    amount: 1
-    unit: tsp
-  - name: red wine vinegar
-    amount: ½
-    unit: tbsp
-  - name: toasted flaked almonds
-    amount: 2
-    unit: tbsp
+
 ---
 
 Podcast/ Recording space
