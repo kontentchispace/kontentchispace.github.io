@@ -3,7 +3,7 @@ title: 'Gotham Podcast Studio'
 ref: gotham-podcast-studio
 image: true
 time: 60
-category: New York
+category: NY
 tags: [podcast, new york, ny, studio]
 ingredients:
   - name: cost per hour
