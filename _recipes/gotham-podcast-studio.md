@@ -4,7 +4,7 @@ ref: gotham-podcast-studio
 image: true
 time: 60
 category: NY
-tags: [podcast, new york, ny, studio]
+tags: [podcast, new york, NY, studio]
 ingredients:
   - name: cost per hour
     amount: 60$ <   
