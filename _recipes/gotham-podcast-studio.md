@@ -2,7 +2,7 @@
 title: 'Gotham Podcast Studio'
 ref: gotham-podcast-studio
 image: true
-time: 30
+time: 60
 category: New York
 tags: [podcast, new york, ny, studio]
 ingredients:
