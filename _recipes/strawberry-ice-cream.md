@@ -1,5 +1,6 @@
 ---
 title: 'Easy strawberry ice cream'
+published: false
 ref: strawberry-ice-cream
 image: true
 time: 30
