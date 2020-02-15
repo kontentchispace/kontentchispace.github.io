@@ -4,7 +4,7 @@ ref: gotham-podcast-studio
 image: true
 time: 30
 category: New York
-tags: [podcast, coworking, new york, ny]
+tags: [podcast, new york, ny, studio]
 ingredients:
   - name: cost per hour
     amount: 60$ <   
