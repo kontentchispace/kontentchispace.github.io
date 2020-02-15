@@ -14,18 +14,18 @@ tags: [das Music Studio, Tonstudio, Munich]
   
 Sprach- und Musikaufnahmen<br>	 
  	- Sprach- und Musikaufnahmen pro Std.
-   inkl. Audio Engineer, Technik, Stereo-Mix	50,- €<br>	
+   (inkl. Audio Engineer, Technik, Stereo-Mix) - 50,- €<br>	
  	- Nachbearbeitung pro Std. 
-   inkl. Audio Engineer, Technik, Stereo-Mix	50,- €<br>	
+   (inkl. Audio Engineer, Technik, Stereo-Mix) - 50,- €<br>	
  	- Tagespauschale 8 Std.
-   inkl. Audio Engineer, Technik, Stereo-Mix	400,- €<br>	
+   (inkl. Audio Engineer, Technik, Stereo-Mix) - 400,- €<br>	
  	- Halbtagespauschale 4 Std.
-   inkl. Audio Engineer, Technik, Stereo-Mix	200,- €<br>	
+   (inkl. Audio Engineer, Technik, Stereo-Mix) - 200,- €<br>	
  	- 6-Kanal Mischung pro Std.
-   inkl. Audio Engineer, Technik, Surround-Mix 5.1	65,- €<br>	
+   (inkl. Audio Engineer, Technik, Surround-Mix5.1) - 65,- €<br>	
  	- 8-Kanal Mischung pro Std.
-   inkl. Audio Engineer, Technik, Surround-Mix7.1	75,- €
+   inkl. Audio Engineer, Technik, Surround-Mix7.1 - 75,- €
    
 ---
 
-_À partir de [Studio Penny Lane](https://www.studiopennylane.com/audio)._
+_Von hier [Soundstarstudios Tonstudio](http://www.soundstarstudios.de/index.php?article_id=101&clang=0)._
