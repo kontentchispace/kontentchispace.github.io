@@ -3,7 +3,7 @@ title: 'Gotham Podcast Studio'
 ref: gotham-podcast-studio
 image: true
 time: 30
-category: New Yourk
+category: New York
 tags: [podcast, coworking, new york, ny]
 ingredients:
   - name: cost per hour
