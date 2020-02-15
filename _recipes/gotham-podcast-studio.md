@@ -14,27 +14,27 @@ ingredients:
 
 ### HOURLY PUBLIC PRICING
 
-Audio Recording : $60 an hour
-Live Video Streaming : $10 an hour
-Video Recording : $35 an hour
-Engineer +: $55 an hour
-Advanced Editing: $50 an hour
-Rush Fee: $40
-Multi-Track: $10 
+Audio Recording : $60 an hour<br>
+Live Video Streaming : $10 an hour<br>
+Video Recording : $35 an hour<br>
+Engineer +: $55 an hour<br>
+Advanced Editing: $50 an hour<br>
+Rush Fee: $40<br>
+Multi-Track: $10<br>
 Multi-Camera Video Recording: Inquire Via Email 
 
 ### MEMBERSHIP RATES
 
-Audio Recording: $40 an hour
-Live Video Streaming: $10 an hour
-Video Recording: Included in Membership $0 an hour
-Engineer +: $55 an hour
-Advanced Editing: $50 an hour
-Rush Fee: $40
-Multi-Track: $10 
-Multi-Camera Video Recording: Inquire Via Email 
+Audio Recording: $40 an hour<br>
+Live Video Streaming: $10 an hour<br>
+Video Recording: Included in Membership $0 an hour<br>
+Engineer +: $55 an hour<br>
+Advanced Editing: $50 an hour<br>
+Rush Fee: $40<br>
+Multi-Track: $10 <br>
+Multi-Camera Video Recording: Inquire Via Email <br>
 Membership Dues: $60 a month with a 3 month commitment paid at the start of each month and due each month. You can opt to pay for your membership annually and get a discount of $120 dollars.
-
+<br>
 Membership also comes with priority access to GPS events. Publishing/Distribution and Hosting on GPS network (A $50/month value). Training and mentorship within the GPS network from other podcasters and GPS staff
 
 ---
