@@ -40,6 +40,7 @@ ingredients:
   - name: vanilla sugar
     amount: 2
     unit: packages
+	published: false
 ---
 
 <figure>

@@ -1,5 +1,6 @@
 ---
 title: 'Salmon burger'
+published: false
 ref: salmon-burger
 image: true
 time: 45
