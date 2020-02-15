@@ -1,6 +1,7 @@
 ---
 title: My First Post
 ref: myfirstpost-new
+published: false
 image: true
 time: 60
 category: snacks
@@ -40,7 +41,7 @@ ingredients:
   - name: vanilla sugar
     amount: 2
     unit: packages
-	published: false
+
 ---
 
 <figure>
