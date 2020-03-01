@@ -3,7 +3,7 @@ title: 'Studio21A：专业的音乐录制，混音和母带制作设施'
 ref: studio-21a
 image: true
 time: 120
-category: beijing
+category: Beijing
 tags: [podcast, studio, Beijing]
 ingredients:
   - name: 2小时起
