@@ -2,7 +2,7 @@
 title: 'Locus Of Walthamstow Podcast/ Recording space'
 ref: locus-of-walthamstow-london
 image: true
-time: 30
+time: 60
 category: London
 tags: [podcast, coworking, london]
 ingredients:
