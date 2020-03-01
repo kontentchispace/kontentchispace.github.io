@@ -5,7 +5,7 @@ image: true
 time: 60
 category: toronto
 tags: [Toronto, Podcast, studio]
-cost:
+ingredients:
   - name: cost per hour
     amount: ~40$ <   
 ---
