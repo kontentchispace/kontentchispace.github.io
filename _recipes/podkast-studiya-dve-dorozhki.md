@@ -1,5 +1,5 @@
 ---
-title: 'ПОДКАСТ-СТУДИЯ ДВЕ ДОРОЖКИ'
+title: 'Подкаст-Студия Две Дорожки'
 ref: podkast-studiya-dve-dorozhki
 image: true
 time: 60
