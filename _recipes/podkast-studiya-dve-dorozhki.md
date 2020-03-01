@@ -3,7 +3,7 @@ title: 'ПОДКАСТ-СТУДИЯ ДВЕ ДОРОЖКИ'
 ref: podkast-studiya-dve-dorozhki
 image: true
 time: 60
-category: SPB
+category: spb
 tags: [подкаст, Студия, СПБ]
 ingredients:
   - name: за час
