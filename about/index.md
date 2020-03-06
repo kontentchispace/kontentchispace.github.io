@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Жөнүндө
 lang: en
 ref: about
 ---
