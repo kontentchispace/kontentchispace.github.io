@@ -5,7 +5,7 @@ lang: en
 ref: about
 ---
 
-> Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+> Кош кел! Бул платформа чет жакта жашап жаткан кыргыз жарандарын бириктирет. Бул платформа кыргыз тилде подкаст жаздырууну өндүрүүгө көмөк кошот. Эне тилде үн кат!
 
 ## Setup
 
