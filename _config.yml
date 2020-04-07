@@ -77,8 +77,7 @@ google_fonts:
 excerpt_separator: <!-- Read more -->
 
 navigation:
-  Жардам бер: https://github.com/connor-baer/summer
-  Инфо: https://github.com/connor-baer/summer/archive/gh-pages.zip
+  Инфо: #
 
 collections:
   recipes:
