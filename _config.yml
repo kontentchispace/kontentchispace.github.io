@@ -77,7 +77,7 @@ google_fonts:
 excerpt_separator: <!-- Read more -->
 
 navigation:
-  Инфо: https://kontentchispace.github.io/pages/info.html
+  Инфо: https://kontentchispace.github.io/pages/info
 
 collections:
   recipes:
