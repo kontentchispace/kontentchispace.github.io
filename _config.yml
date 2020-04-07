@@ -38,7 +38,7 @@ dark_theme: false
 title: Kontentchi Space
 tagline: 'Эне тилде подкаст'
 description: 'Подкастчы авторлорду бириктирген платформа.'
-keywords: 'connor, bär, designer, traveller, code, jekyll, developer, theme'
+keywords: 'kontentchi, контентчи, кыргызча, подкаст, kyrgyz, podcast, kyrgyzstan, people'
 url: https://kontentchispace.github.io
 baseurl: https://kontentchispace.github.io/
 assets: /assets
@@ -77,8 +77,8 @@ google_fonts:
 excerpt_separator: <!-- Read more -->
 
 navigation:
-  GitHub: https://github.com/connor-baer/summer
-  Download: https://github.com/connor-baer/summer/archive/gh-pages.zip
+  Жардам бер: https://github.com/connor-baer/summer
+  Инфо: https://github.com/connor-baer/summer/archive/gh-pages.zip
 
 collections:
   recipes:
