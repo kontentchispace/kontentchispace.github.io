@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Инфо
-lang: ky
+lang: en
 ref: info
 ---
 
