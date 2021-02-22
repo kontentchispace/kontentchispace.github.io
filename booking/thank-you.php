@@ -7,9 +7,9 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="https://mukashovphoto.com/wp-content/uploads/2017/08/Mukashov_ico.png" sizes="32x32" />
-    <link rel="icon" href="https://mukashovphoto.com/wp-content/uploads/2017/08/Mukashov_ico.png" sizes="192x192" />
-    <link rel="apple-touch-icon-precomposed" href="https://mukashovphoto.com/wp-content/uploads/2017/08/Mukashov_ico.png" />
+    <link rel="icon" href="clockpicker/assets/images/ico.png" sizes="32x32" />
+    <link rel="icon" href="clockpicker/assets/images/ico.png" sizes="192x192" />
+    <link rel="apple-touch-icon-precomposed" href="clockpicker/assets/images/ico.png" />
 
 
     <title>Отправка формы на почту </title>
